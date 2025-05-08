@@ -5,7 +5,7 @@ This pipeline runs on a VCF with 1 chromosome and computes summary stats on wind
 The script runs as a job array, splitting the VCF into regions of 8Mb and computing the summary statistics in parallel to optimoze computation time 
 Output is a CSV file with summary stats per variant position (user-defined minimum variant frequency)
 
-Summary statistics based on BaSe (ref paper)
+Summary statistics based on BaSe ([ref paper](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13379))
 
 ## Steps
 
