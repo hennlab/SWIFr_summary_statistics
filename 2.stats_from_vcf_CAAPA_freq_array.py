@@ -1,4 +1,4 @@
-import calc_stats_for_swifr_revised_Khomanionly_mod
+import calc_stats_for_swifr_revised
 import os
 import sys
 
