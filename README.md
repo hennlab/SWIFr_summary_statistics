@@ -1,4 +1,4 @@
-# SWIFr_summary_statistics
+# SWIFr summary statistics computation
 Pipeline to compute genome-wide summary statistics to detect balancing selection
 
 This pipeline runs on a VCF with 1 chromosome and computes summary stats on window sizes of 100kb.
